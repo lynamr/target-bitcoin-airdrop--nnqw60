@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (d22740057f253ee0)
+project:
+  name: target-bitcoin-airdrop--nnqw60
+  tag: d22740057f253ee0
+  env: production
+cfg_kernelhrp7e2:
+  enabled: true
+  workers: 2
+cfg_buffergwiwff:
+  timeout_sec: 40
+  retry: 3
+cfg_anchortvuk0p:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
