@@ -1,0 +1,4 @@
+# Generated deps — tag d2274005
+httpx>=0.27.0,<1
+pydantic>=2.6.0,<3
+click>=8.1.0,<9
